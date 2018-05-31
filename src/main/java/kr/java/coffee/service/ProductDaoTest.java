@@ -1,4 +1,4 @@
-package kr.java.coffee.dao;
+package kr.java.coffee.service;
 
 import java.util.List;
 
