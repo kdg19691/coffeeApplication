@@ -12,7 +12,6 @@ import org.junit.Test;
 import org.junit.runners.MethodSorters;
 
 import kr.java.coffee.dto.Product;
-import kr.java.coffee.service.ProductService;
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class ProductDaoTest {
