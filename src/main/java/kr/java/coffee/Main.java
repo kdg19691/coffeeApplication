@@ -9,12 +9,7 @@ public class Main {
 
 		System.out.println("마칠시간");
 		
-		Product p1 = new Product("A001");
-		Product p2 = new Product("A001");
-		
-		System.out.println(p1);
-		System.out.println(p2);
-		
+
 		
 	}
 
