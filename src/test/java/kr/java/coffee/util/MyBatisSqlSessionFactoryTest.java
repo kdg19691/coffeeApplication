@@ -1,4 +1,4 @@
-package kr.java.coffe.util;
+package kr.java.coffee.util;
 
 import java.sql.Connection;
 
