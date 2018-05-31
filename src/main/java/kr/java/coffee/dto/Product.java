@@ -42,8 +42,6 @@ public class Product {
 	public void setPrice(int price) {
 		this.price = price;
 	}
-<<<<<<< HEAD
-=======
 
 	@Override
 	public int hashCode() {
@@ -67,7 +65,6 @@ public class Product {
 			return false;
 		return true;
 	}
->>>>>>> refs/heads/hotfix
 }
 	
 	

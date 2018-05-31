@@ -9,9 +9,8 @@ public class Main {
 
 		System.out.println("마칠시간");
 		
-<<<<<<< HEAD
 
-=======
+
 		Product p1 = new Product("A001");
 		Product p2 = new Product("A001");
 		
@@ -26,8 +25,7 @@ public class Main {
 			}
     }
 	
-	
->>>>>>> refs/heads/hotfix
+
 		
 }
 
